@@ -1,3 +1,3 @@
-# DisasterRelief
-    # The tag app communicates with the tracker app over Bluetooth to communicate the
-    # survival needs of people affected by disaster without the need of internet connection
+# Disaster Relief
+    # A disaster relief app that communicates the survival needs of people to a drone tracker app over Bluetooth
+    # without the need of internet connection.
